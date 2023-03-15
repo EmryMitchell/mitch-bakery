@@ -8,7 +8,5 @@ e-commerce
 - [] Review shopping cart
 - [] Change quantity of items in cart
 
-
-**Option
-- Sign in and registration
-- Payment gateway
+- [] Sign in and registration
+- [] Payment gateway
